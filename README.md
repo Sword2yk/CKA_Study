@@ -29,3 +29,16 @@ export do="--dry-run=client -o yaml" This will let you create yaml files when yo
 - sudo -i Gives you root privileges. Run this immediately because the user they give you on the exam doesn't seem to have permission to do anything...
 - USE THE RIGHT CONTEXT FOR EACH QUESTION. You will be instructed to use a specific context for each question. They give you the command to switch to the right context so all you have to do is copy and paste it into the terminal before you do anything. I cannot stress how important this step is. If you forget this step and use the wrong context you will most likely get the question wrong.
 - Be VERY familiar with the kubectl cheat sheet and the reference docs. There are a lot of commands on both that will help you out tremendously if you know where to look.
+
+## Links
+[kubernetes Home](https://kubernetes.io/docs/home/)
+
+[kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+
+[cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+
+[Persistent-volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistent-volumes)
+
+[Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+
+[Backing-up-an-etcd-Cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
