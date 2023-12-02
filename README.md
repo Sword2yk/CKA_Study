@@ -42,3 +42,5 @@ export do="--dry-run=client -o yaml" This will let you create yaml files when yo
 [Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 
 [Backing-up-an-etcd-Cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
+[kubelabs] (https://collabnix.github.io/kubelabs/) 
+[Kubernetes The Hard Way] (https://github.com/kelseyhightower/Kubernetes-The-Hard-Way) 
