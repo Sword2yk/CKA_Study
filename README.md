@@ -32,15 +32,14 @@ export do="--dry-run=client -o yaml" This will let you create yaml files when yo
 
 ## Links
 [kubernetes Home](https://kubernetes.io/docs/home/)
-
 [kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
-
-[cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-
+[Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 [Persistent-volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistent-volumes)
-
 [Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
-
 [Backing-up-an-etcd-Cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
-[kubelabs] (https://collabnix.github.io/kubelabs/)
-[Kubernetes The Hard Way] (https://github.com/kelseyhightower/Kubernetes-The-Hard-Way) 
+[kubelabs](https://collabnix.github.io/kubelabs/)
+[Kubernetes The Hard Way](https://github.com/kelseyhightower/Kubernetes-The-Hard-Way) 
+[Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam](https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/)
+[Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+[The Kubernetes Handbook – Learn Kubernetes for Beginners](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
+[Deploying MySQL on Kubernetes](https://medium.com/@midejoseph24/deploying-mysql-on-kubernetes-16758a42a746)
