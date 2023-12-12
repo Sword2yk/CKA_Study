@@ -43,3 +43,4 @@ export do="--dry-run=client -o yaml" This will let you create yaml files when yo
 - [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
 - [The Kubernetes Handbook – Learn Kubernetes for Beginners](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 - [Deploying MySQL on Kubernetes](https://medium.com/@midejoseph24/deploying-mysql-on-kubernetes-16758a42a746)
+- [CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide)
